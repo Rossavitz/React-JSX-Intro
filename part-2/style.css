@@ -1,0 +1,17 @@
+.tweet {
+    width: 300px;
+    border: 2px solid darkblue;
+    margin: 10px;
+    padding: 5px;
+}
+
+#username, #name, #date {
+    display: inline-block;
+    margin-right: 10px;
+    color: gray;
+}
+
+#message{
+    font-size: 1.25rem;
+    color: blue;
+}
